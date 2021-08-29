@@ -1,1 +1,1 @@
-# Assets-Management-System-ReactJS-
+# Assets-Management-System-ReactJS
